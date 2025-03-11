@@ -79,3 +79,6 @@ train['rainfall_log_diff'].dropna().plot(title='Log Differenced Rainfall')
 ## LOG TRANSFORMATION:
 ![image](https://github.com/user-attachments/assets/d611b06d-2cd7-4d32-9555-93ed8fffb83c)
 
+## RESULT:
+Thus The python code has been created for the conversion of non stationary to stationary data on Rainfall Rate.
+
