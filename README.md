@@ -68,9 +68,14 @@ train['rainfall_log_diff'].dropna().plot(title='Log Differenced Rainfall')
 ## OUTPUT:
 
 ## WITHOUT CONVERSION:
+![image](https://github.com/user-attachments/assets/9db1674e-ae60-466e-8c76-f9d9aec0966c)
 
 ## REGULAR DIFFERENCING:
+![image](https://github.com/user-attachments/assets/2d1f53e7-a0f0-49b5-b2d8-62811a4335b6)
 
 ## SEASONAL ADJUSTMENT:
+![image](https://github.com/user-attachments/assets/05a20b09-b033-48bb-9100-76382d02b587)
 
 ## LOG TRANSFORMATION:
+![image](https://github.com/user-attachments/assets/d611b06d-2cd7-4d32-9555-93ed8fffb83c)
+
